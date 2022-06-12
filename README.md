@@ -8,7 +8,7 @@
   * Arrays in ES6
   * New no Methods
   * New Global Methods
-  ===============================================================
+ <br>
   let & const & var =>
   => var - var type variable is function scoped variable
   => let & const - let and const type varibles are block-scoped varibale
