@@ -1,5 +1,4 @@
 # ES-6-EcmaScript-2015-
-==========================================================================================================
 --Concept of ES6
   * let & const & var
   * Template String(Template Literal)
@@ -9,7 +8,7 @@
   * Arrays in ES6
   * New no Methods
   * New Global Methods
-  =======================================================================================================
+  ===============================================================
   let & const & var =>
   => var - var type variable is function scoped variable
   => let & const - let and const type varibles are block-scoped varibale
