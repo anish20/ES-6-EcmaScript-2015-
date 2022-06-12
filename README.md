@@ -9,7 +9,7 @@
   * New no Methods
   * New Global Methods
  <br>
-  let & const & var =>
+  let & const & var =><br>
   * var - var type variable is function scoped variable
   * let & const - let and const type varibles are block-scoped varibale
   * function scope varibale print inside the function scoped area and also block-scoped area.
