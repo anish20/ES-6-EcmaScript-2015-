@@ -10,10 +10,10 @@
   * New Global Methods
  <br>
   let & const & var =>
-  => var - var type variable is function scoped variable
-  => let & const - let and const type varibles are block-scoped varibale
-  =>  function scope varibale print inside the function scoped area and also block-scoped area.
-   => block scoped variable print inside only blocked scoped, we can not print the function scoped ared and throw error- varible undefined
+  * var - var type variable is function scoped variable
+  * let & const - let and const type varibles are block-scoped varibale
+  * function scope varibale print inside the function scoped area and also block-scoped area.
+  * block scoped variable print inside only blocked scoped, we can not print the function scoped ared and throw error- varible undefined
     
     // 1- function scoped
     // function dispVariable(love){
